@@ -1,0 +1,1 @@
+console.log("Hello world it an amazing and beautiful world");
