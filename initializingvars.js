@@ -1,5 +1,6 @@
+"use strict";
 let height = 180;
-let anotherHeight = height + 20;
+var anotherHeight = height + 20;
 let weight;
 console.log(height);
 console.log(anotherHeight);
